@@ -4,14 +4,19 @@
     font-family: 楷体;
 
 }
+
 body{
     background-color: #cccccc;
 }
+
 .nag{
     background-color: #333333;
     height: 50px;
 
 
+}
+.nag h1{
+    color: white;
 }
 .nag ul {
     list-style: none;
